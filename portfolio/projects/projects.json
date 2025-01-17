@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Mental Health Care Chatbot", 
+    "desc": "It's a web based chat app made using javaScript library(json), Worked on flask application using Python.",
+    "image": "mentalhealthcare",
+    "category": "webapp",
+    "links": {
+      
+      "code": "https://github.com/manibharathi2001/mental-health-care-using-chatbot"
+    }
+  },
+  {
+    "name": "Spotting Leukeamia With Smart Computer Using Deep Learning",
+    "desc": "Built a Prediction model for identifying the stages of Acute Lymphoblastic Leukeamia (ALL)",
+    "image": "spottingleaukemia",
+    "category": "deeplearning",
+    "links": {
+      
+      "code": "https://github.com/manibharathi2001/spotting-leukemia-with-smart-computers-"
+    }
+  },
+  {
+    "name": "Showcase Tickets",
+    "desc": "Developed a chatbot based Ticket booking for Museum (SIH-PS) ",
+    "image": "website_showcasetickets",
+    "category": "basicweb",
+    "links": {
+      
+      
+    }
+  },
+  {
+    "name": "Techsoft Solutions",
+    "desc": "An idea for providing guidance for the college students on their Projects and Course modules",
+    "image": "Techsoftsolutions",
+    "category": "basicweb",
+    "links": {
+      
+    }
+  }
+  ,
+  {
+    "name": "GPT Based Smart Assistant",
+    "desc": " Built a Voice based assistant with GPT API Key",
+    "image": "Techsoft Solutions",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/manibharathi2001/GPT_Based_smart_Assistant/tree/main"
+    }
+  },
+  {
+    "name": "Chat UI idea",
+    "desc": " Created a Chat UI On Android Studio",
+    "image": "Android_chat_ui",
+    "category": "ui",
+    "links": {
+      
+    }
+  }
+  
+]
